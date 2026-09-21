@@ -13,7 +13,7 @@
   <br><br>
 
   <!-- GIF elegante / kurumi vibe -->
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="220" alt="elegant girl coding"/>
+  <img src="https://redgif.co.uk/wp-content/uploads/2024/06/kuromi-blowing-a-kiss.gif" width="220" alt="elegant girl coding"/>
 
 </div>
 
