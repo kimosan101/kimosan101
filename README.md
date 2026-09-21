@@ -53,12 +53,17 @@ Aunque todavía no tengo proyectos públicos, estoy construyendo mi base con pac
 
 <br>
 
-### 📊 Mis estadísticas
+### 🕰️ Mi camino actual
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimosan101&show_icons=true&theme=radical&hide_border=true&bg_color=1A0A1E&title_color=F8BBD9&icon_color=C2185B&text_color=FFFFFF&ring_color=C2185B" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimosan101&layout=compact&theme=radical&hide_border=true&bg_color=1A0A1E&title_color=F8BBD9&text_color=FFFFFF" height="165"/>
-</div>
+Estoy en la etapa más hermosa y a la vez más importante: **construir mis bases**.
+
+Actualmente me enfoco en:
+- Dominar HTML y CSS con elegancia
+- Entender JavaScript de forma profunda
+- Crear mis primeros proyectos bonitos y funcionales
+- Aprender a usar Git y GitHub con confianza
+
+> Cada línea de código es un pequeño segundo que gano en mi propio tiempo.
 
 <br>
 
